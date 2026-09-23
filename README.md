@@ -94,7 +94,7 @@ The application source is provided for the repository owner's use. Check the ter
 
 ## References
 
-[1]: https://flat.io/developers/docs/api/authentication "Flat API Authentication"
-[2]: https://flat.io/developers/docs/api/omr/ "Flat Optical Music Recognition API"
-[3]: https://github.com/tambien/Piano "@tonejs/piano and Salamander Grand Piano samples"
-[4]: https://tonejs.github.io/docs/14.7.77/Sampler "Tone.js Sampler documentation"
+- https://flat.io/developers/docs/api/authentication "Flat API Authentication"
+- https://flat.io/developers/docs/api/omr/ "Flat Optical Music Recognition API"
+- https://github.com/tambien/Piano "@tonejs/piano and Salamander Grand Piano samples"
+- https://tonejs.github.io/docs/14.7.77/Sampler "Tone.js Sampler documentation"
